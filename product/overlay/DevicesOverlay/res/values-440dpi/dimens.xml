@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="navigation_side_padding">85.0dip</dimen>
+    <dimen name="notch_status_bar_padding_top">27.0px</dimen>
+    <dimen name="round_cornor_padding">7.0dip</dimen>
+    <dimen name="rounded_corner_content_padding">37.119995px</dimen>
+    <dimen name="statusbar_padding_end">17.869995px</dimen>
+    <dimen name="incall_round_cornor_padding">7.0dip</dimen>
+    <dimen name="notch_height">102.0px</dimen>
+    <dimen name="notch_width">72.0px</dimen>
+    <dimen name="statusbar_carrier_max_width">460.5px</dimen>
+    <dimen name="statusbar_padding_start">22.549988px</dimen>
+</resources>
